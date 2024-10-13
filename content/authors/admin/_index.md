@@ -69,15 +69,12 @@ skills:
       - name: R
         description: Base R, tidyverse incl. dplyr & ggplot2, Machine Learning with R, data.table
         percent: 80
-        icon: code-bracket
       - name: Stata
         description: Econometrics, coding, gtools, ftools, reghdfe
         percent: 95
-        icon: chart-bar
       - name: Python
         description: numpy, matplotlib, pandas, scikit-learn
         percent: 70
-        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -85,11 +82,9 @@ skills:
       - name: Dancesport (Ballroom & Latin)
         description: ''
         percent: 95
-        icon: person-simple-walk
       - name: Tennis
         description: ''
         percent: 80
-        icon: dog
 
 languages:
   - name: German
