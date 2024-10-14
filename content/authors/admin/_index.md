@@ -102,8 +102,10 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: URPP Equality of Opportunity Scholarship
-    date: '2023-'
+    date: '2023-00-00'
     awarder: University of Zurich
+    summary: |
+      Ongoing scholarship.
   - title: Proxime Accessit - George Webb Medley Prize for excellent performance in second-year MPhil exams
     date: '2022'
     awarder: University of Oxford
