@@ -43,7 +43,7 @@ interests:
 
 education:
   - area: PhD Economics
-    institution: Stanford University
+    institution: University of Zurich
     date_start: 2022-08-14
     date_end: 2028-08-14
     summary: |
