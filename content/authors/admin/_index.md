@@ -95,31 +95,6 @@ languages:
     percent: 65
   - name: Spanish
     percent: 35
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: URPP Equality of Opportunity Scholarship
-    date: '2023-00-00'
-    awarder: University of Zurich
-    summary: |
-      Ongoing scholarship.
-  - title: Proxime Accessit - George Webb Medley Prize for excellent performance in second-year MPhil exams
-    date: '2022'
-    awarder: University of Oxford
-  - title: Scholarship from Konrad-Adenauer-Stiftung
-    date: '2017-2022'
-    awarder: Konrad-Adenauer-Stiftung
-  - title: Academic scholarship
-    date: '2018-2020'
-    awarder: Hertford College, University of Oxford
-  - title: Calvin Cheng Prize
-    date: '2019, 2020'
-    awarder: Hertford College, University of Oxford
-    summary: |
-      Awarded for excellent performance in second-year economics, second-year politics, and third-year economics.
 ---
 
 ## About Me
