@@ -41,10 +41,7 @@ sections:
         I am a Labour Economist interested in applying the newest techniques in causal inference and machine learning to understand modern labour markets, especially how people search for jobs and how firms hire workers.
     design:
       columns: '1'
-    
-  - block: markdown
-    (add block for teaching experience here)
-    content:
+      
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
