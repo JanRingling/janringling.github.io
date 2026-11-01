@@ -39,6 +39,20 @@ sections:
       subtitle: ''
       text: |-
         I am a Labour Economist interested in applying the newest techniques in causal inference and machine learning to understand modern labour markets, especially how people search for jobs and how firms hire workers.
+
+        ### Work in Progress
+        **Severance Pay and long-term job outcomes**
+        *single-authored*
+        Draft available upon request
+
+        **Impact of Generative AI on Job Requirements**
+        *joint with Karim El-Ouaghlidi*
+
+        **Effects of compulsory computer science education on degree choice**
+        * joint with Benjamin Riva*
+
+        **Processing Earnings Calls using BERT**
+        *joint with Benjamin Riva*
     design:
       columns: '1'
       
