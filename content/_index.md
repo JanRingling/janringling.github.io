@@ -49,7 +49,7 @@ sections:
         *joint with Karim El-Ouaghlidi*
 
         **Effects of compulsory computer science education on degree choice**
-        * joint with Benjamin Riva*
+        *joint with Benjamin Riva*
 
         **Processing Earnings Calls using BERT**
         *joint with Benjamin Riva*
