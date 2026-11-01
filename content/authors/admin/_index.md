@@ -42,10 +42,13 @@ interests:
   - Machine Learning
 
 education:
+  - area: Visiting Research Student
+    institution: London School of Economics
+    date_start: 2026-09-01
+    date_end: 2027-02-28
   - area: PhD Economics
     institution: University of Zurich
     date_start: 2022-08-14
-    date_end: 2028-08-14
     summary: |
       Thesis on Labour Economics, using innovative techniques in Causal Inference and Machine Learning.
   - area: MPhil Economics
@@ -99,4 +102,4 @@ languages:
 
 ## About Me
 
-I am a PhD student in Economics at the University of Zurich. My primary research interest is Labour Economics, and I am particularly interested in the intersection of Labour Economics, Econometrics, and Machine Learning. 
+I am a PhD candidate in Economics at the University of Zurich. My primary research interest is Labour Economics, and I am particularly interested in the intersection of Labour Economics, Econometrics, and Machine Learning. I am visiting the London School of Economics from September 2026 - February 2027.
